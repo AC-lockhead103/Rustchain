@@ -35,7 +35,7 @@ logger = logging.getLogger(__name__)
 # -----------------------------------------------------------------------------
 # Configuration defaults — fixed to real RustChain infrastructure
 # -----------------------------------------------------------------------------
-DEFAULT_NODE_URL = "https://50.28.86.131"
+DEFAULT_NODE_URL = "https://rustchain.org"
 DEFAULT_LISTEN_PORT = 8000
 DEFAULT_SCRAPE_INTERVAL = 30
 DEFAULT_REQUEST_TIMEOUT = 10
